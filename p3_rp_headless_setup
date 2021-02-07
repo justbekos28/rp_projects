@@ -1,6 +1,6 @@
 Raspberry Pi 4B - Headless Setup
 
-** Load ssh & wpa_supplicant.conf files to sd card.
+** Load ssh & wpa_supplicant.conf files to sd card (see sample files in main folder)
 
 change default password:
 passwd
