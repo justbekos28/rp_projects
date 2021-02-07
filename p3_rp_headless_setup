@@ -1,0 +1,13 @@
+Raspberry Pi 4B - Headless Setup
+
+** Load ssh & wpa_supplicant.conf files to sd card.
+
+change default password:
+passwd
+
+Raspbian Lite Packages Updates pull down:
+sudo apt update
+
+Raspbian Lite Upgrade:
+sudo apt full-upgrade
+
